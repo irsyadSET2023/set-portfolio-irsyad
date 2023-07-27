@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "portfolio-irsyad",
   "main": "app.js",
+  "engines": {
+    "node": "18.17.0"
+  },
   "scripts": {
     "start": "node app.js",
     "dev": "npx nodemon app.js",
